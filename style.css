@@ -1,0 +1,73 @@
+html {
+    width: 100%;
+    height: 100%;
+}
+
+.fox {
+    margin-top: 3rem;
+    /* max-width: 300px;
+    width:80%;
+    height: auto; */
+    max-width: 100%;
+    max-height: 100%;
+
+
+
+}
+
+.img-container {
+    text-align: center;
+    display: block;
+    object-fit: fill;
+
+}
+
+#p {
+    margin-top: 4rem;
+    text-align: center;
+}
+
+.options {
+    text-align: center;
+
+}
+
+
+.answerBottomYesNo input[type="radio"] {
+    margin-right: 20px;
+}
+
+
+img.animated-gif {
+    max-width: 300px;
+    width: 80%;
+    height: auto;
+}
+
+
+
+
+
+#inner2 {
+    width: 550px;
+    height: 550px;
+    width: 80%;
+
+
+
+    background-image: url("images/backgroun2.png");
+    background-size: cover;
+}
+
+.btn {
+    margin: 10px;
+}
+
+#inner1 {
+    font-size: large;
+}
+
+.moodText {
+    font-size: large;
+    ;
+}
